@@ -1,0 +1,14 @@
+
+h2{
+    font-family: 'Dancing Script', cursive;
+    font-style: italic;
+    background: rgb(252, 164, 183);
+    border-radius: 100px;
+}
+
+p{
+    font-family: 'Dancing Script', cursive;
+    font-weight: 500;
+    font-style: oblique;
+}
+/* 209, 127, 145 */ 
